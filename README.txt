@@ -68,7 +68,7 @@ Banking-Simulation-System/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Sahilydv/Banking-Simulation-System.git
+git clone https://github.com/Sahilyadv/Banking-Simulation-System.git
 ```
 
 ## Go to Project
@@ -127,5 +127,5 @@ Author
 Sahil Yadav
 Python Full Stack Developer
 Email: sahilyad4567@gmail.com
-GitHub: https://github.com/Sahilydv
+GitHub: https://github.com/Sahilyadv
 
